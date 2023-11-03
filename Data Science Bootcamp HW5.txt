@@ -1,0 +1,20 @@
+How do you assess the statistical significance of an insight?
+Set up Null Hypothesis and Alternative Hypothesis. Choose a Significance Level. Common values are 0.05 or 0.01. Select a Statistical Test. Collect Data. Perform Statistical Test. Calculate P-Value. Compare P-Value to Significance Level. Draw Conclusions.
+
+What is the Central Limit Theorem? Explain it. Why is it important?
+The Central Limit Theorem (CLT) is a fundamental concept in statistics that describes the distribution of sample means from any population, regardless of the shape of the population's distribution. It states that, as the sample size increases, the distribution of the sample means approaches a normal distribution, regardless of the shape of the original population distribution.This theorem is crucial because it allows statisticians and data analysts to make inferences about a population based on a relatively small sample. In practical terms, the CLT implies that if you were to repeatedly draw random samples from a population and calculate the means of those samples, the distribution of those sample means would tend to follow a normal distribution, even if the original population distribution is not normal.
+
+What is the statistical power?
+Statistical power is a crucial concept in hypothesis testing and refers to the probability that a statistical test will correctly reject a false null hypothesis. In other words, it is the likelihood of detecting a true effect or difference when it exists in the population. A test with high statistical power is better at distinguishing between true effects and random variability.
+
+How do you control for biases?
+Randomized Controlled Trials involve randomly assigning subjects to different groups, which helps control for both known and unknown biases. This is often considered the gold standard in research.Random Sampling ensures that your sample is randomly selected from the population of interest. This helps reduce selection bias and ensures that your sample is representative.In experimental settings, both the participants and the researchers may be unaware of who is in the control group and who is in the treatment group. This helps minimize biases that could arise from knowledge of the treatment.
+
+What are confounding variables?
+Confounding variables are extraneous factors that may interfere with the relationship between the independent variable (the variable being manipulated or studied) and the dependent variable (the outcome being measured). These variables can introduce bias and lead to incorrect conclusions about the relationship between the variables of interest.
+
+What is A/B testing?
+A/B testing, also known as split testing, is a method of comparing two versions of a webpage, app, email, or other digital asset to determine which one performs better. It is commonly used in marketing and product development to optimize user experience and maximize desired outcomes, such as click-through rates, conversion rates, or engagement.
+
+What are confidence intervals?
+A confidence interval is a statistical concept that provides a range of values that is likely to contain the true value of an unknown parameter with a certain level of confidence. It is often used to express the precision or uncertainty associated with a sample estimate.
